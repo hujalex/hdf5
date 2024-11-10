@@ -11,7 +11,7 @@
 //     hsize_t dims[2] = {10, 10}; // Dimensions of the dataset
 //     H5::DataSet dataset = group.createDataSet("myDataset", H5::DataType(H5::PredType::STD_I32BE), H5::DataSpace(2, dims));
 
-//     // Write data to the dataset
+//     // Write data to the dataset 
 //     int data[10][10];
 //     for (int i = 0; i < 10; i++) {
 //         for (int j = 0; j < 10; j++) {
