@@ -5,7 +5,7 @@
 //     H5::H5File file("data.h5", H5F_ACC_TRUNC);
 
 //     // Create a group
-//     H5::Group group = file.createGroup("myGroup");
+//     H5::Group group = file.createGroup("myGroup"); 
 
 //     // Create a dataset
 //     hsize_t dims[2] = {10, 10}; // Dimensions of the dataset
